@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>O pioneiro do zodíaco, Áries é um signo de fogo, conhecido por sua energia, impulsividade e coragem. São líderes natos, apaixonados e aventureiros, mas podem ser impacientes e teimosos.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é um signo de terra, valorizando segurança, conforto e prazeres sensoriais. São práticos, confiáveis e leais, mas podem ser teimosos, possessivos e materialistas.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é um signo de ar, conhecido por sua inteligência, comunicação e adaptabilidade. São curiosos, sociáveis e versáteis, mas podem ser indecisos, superficiais e inquietos.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é um signo de água, regido pela emoção e intuição. São sensíveis, carinhosos e protetores, mas podem ser moody, inseguros e dependentes.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é um signo de fogo, conhecido por sua paixão, criatividade e generosidade. São líderes natos, charmosos e confiantes, mas podem ser dramáticos, egocêntricos e dominadores.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é um signo de terra, conhecido por sua praticidade, organização e atenção aos detalhes. São analíticos, eficientes e trabalhadores, mas podem ser críticos, perfeccionistas e ansiosos.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao> Libra é um signo de ar, buscando equilíbrio, harmonia e justiça. São diplomáticos, sociáveis e justos, mas podem ser indecisos, passivos e dependentes de aprovação.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é um signo de água, intenso e apaixonado. São leais, determinados e misteriosos, mas podem ser vingativos, ciumentos e controladores.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é um signo de fogo, conhecido por sua busca por conhecimento, liberdade e aventura. São otimistas, independentes e filosóficos, mas podem ser impulsivos, irresponsáveis e superficiais.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é um signo de terra, conhecido por sua ambição, disciplina e responsabilidade. São práticos, realistas e persistentes, mas podem ser pessimistas, controladores e workaholics.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é um signo de ar, conhecido por sua originalidade, independência e idealismo. São visionários, humanitários e inovadores, mas podem ser teimosos, rebeldes e distantes.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é um signo de água, conhecido por sua sensibilidade, compaixão e intuição. São românticos, criativos e intuitivos, mas podem ser indecisos, passivos e sonhadores.</descricao>
+    </signo>
+</signos>

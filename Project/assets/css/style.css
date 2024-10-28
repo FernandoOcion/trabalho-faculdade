@@ -1,0 +1,48 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background-image: url("./../imgs/image.png");
+    background-size: 100vw;
+    font-family: 'Arial', sans-serif; /* Choose a font you like */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+
+}
+
+h1 {
+    color: #282c34; /* Dark grey for the title */
+    text-align: center;
+    margin-bottom: 30px;
+    
+}
+
+.container {
+    max-width: 600px;
+    background-color: #f0f4f8; /* Same as background for a subtle effect */
+    border: 2px solid #4285f4; /* A vibrant blue border */
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.container h2 {
+    color: #4285f4; /* Match the border color */
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.container p {
+    color: #333; /* Dark grey for the text */
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
